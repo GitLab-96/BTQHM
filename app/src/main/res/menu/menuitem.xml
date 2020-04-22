@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Live Class"
+        android:id="@+id/liveClass"
+        />
+    <item
+        android:title="Map"
+        android:id="@+id/mapitem"
+        />
+    <item
+        android:title="Notice"
+        android:id="@+id/weatheritem"/>
+    <item
+        android:title="Contact Us"
+        android:id="@+id/contactitem"/>
+    <item
+        android:title="About Us"
+        android:id="@+id/aboutitem"/>
+    <item
+        android:title="Class Shedule"
+        android:id="@+id/classShedule"/>
+</menu>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "765119487493",
+    "firebase_url": "https://btqhm-81f2c.firebaseio.com",
+    "project_id": "btqhm-81f2c",
+    "storage_bucket": "btqhm-81f2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765119487493:android:a38f8ecc99620d9600066c",
+        "android_client_info": {
+          "package_name": "com.example.btqhm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765119487493-735mhm2d5conasq2l647tcog5c2aa3eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.btqhm",
+            "certificate_hash": "fe86a793c376bca7a562b4ddf335100f79452d3b"
+          }
+        },
+        {
+          "client_id": "765119487493-9fh5hu6qa7i42cdfjft2nuqrn7hlbnia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0c2wr7Guo1duXfatE2IxlfRsPIOxlTTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765119487493-9fh5hu6qa7i42cdfjft2nuqrn7hlbnia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
